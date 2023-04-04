@@ -1,0 +1,24 @@
+{
+  "name": "backend-coderhouse",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santicbsn14/proyectoBackEndCoder.git"
+  },
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santicbsn14/proyectoBackEndCoder/issues"
+  },
+  "homepage": "https://github.com/santicbsn14/proyectoBackEndCoder#readme",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
